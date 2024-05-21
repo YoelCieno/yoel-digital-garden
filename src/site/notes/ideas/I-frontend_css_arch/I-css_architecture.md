@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideas/i-frontend-css-arch/i-css-architecture/","tags":["css","frontend","english","trends","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/ideas/i-frontend-css-arch/i-css-architecture/","tags":["css","frontend","english","trends","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 ## Introduction

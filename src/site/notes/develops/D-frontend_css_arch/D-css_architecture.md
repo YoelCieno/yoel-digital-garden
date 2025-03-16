@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/develops/d-frontend-css-arch/d-css-architecture/","tags":["css","frontend","english","trends","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/develops/d-frontend-css-arch/d-css-architecture/","tags":["css","frontend","trends","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 ## Introduction
@@ -8,7 +8,7 @@
 
 - Therefore we need the styles are accesibles, readable and simple. To do this we count with modular strategies or methodologies developed from a long time.
 	- **OOCSS**: https://www.stubbornella.org/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
-		- Typos: https://github.com/stubbornella/oocss/wiki instead https://wiki.github.com/stubbornella/oocss/
+		- Typos: https://github.com/stubbornella/oocss/wiki
 		- https://github.com/stubbornella/oocss/  (main repo)
 	-  **SMACSS**: http://smacss.com
 	- **BEM**: https://nicolasgallagher.com/about-html-semantics-front-end-architecture/
